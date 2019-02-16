@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c287253d-7817-4fdf-ad54-e9070c9637e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/READMD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work5/ParseUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html/virsual" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test/python/class/class101.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test/python/class/class101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test/python/class/class11-1-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test/python/class/class11-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test/python/class/class11-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Field_bwq/AndriodProgram/app/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Field_bwq/AndriodProgram/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Field_bwq/AndriodProgram/app/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/assets/province_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/common/Content.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/dto/CargoInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/dto/JsonBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/utils/Assist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/utils/CircleImageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/utils/CountDownTimerUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/utils/HttpLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/utils/OkHttpUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GoodOwner/app/src/main/java/com/sunlei/utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../android-网络框架.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/helloWorld.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/test/helloWorld/cmake-build-debug/helloWorld.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arthmetic/class1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arthmetic/class1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arthmetic/http/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arthmetic/http/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com.sunlei.test/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com.sunlei.verctor/Iterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/CheckPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/CheckPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/LexcialAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/LexcialAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work1/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/Assist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/Assist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/Parsing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/Parsing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/compile/work3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/servlet/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/servlet/MyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/sunlei/utils/Assist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/src/com/sunlei/utils/Assist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../j2ee/class1/.idea/artifacts/com_class1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../j2ee/class1/.idea/artifacts/com_class1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../j2ee/class1/com.class1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../j2ee/class1/com.class1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Car/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Car/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Car/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Car/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/camera/CameraManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/camera/CameraManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/decoding/CaptureActivityHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/decoding/CaptureActivityHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/decoding/DecodeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/decoding/DecodeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/view/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/view/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/view/ViewfinderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/google/zxing/view/ViewfinderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/FindFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/FindFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/MineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/MineFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/OrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/OrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/TabActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/carlogin/TabActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/common/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/common/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/common/READEME.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/common/READEME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/common/RequestHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/common/RequestHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/dto/JsonBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/dto/JsonBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/others/OkHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/others/OkHttp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/BringOrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/BringOrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/CarAuthActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/CarAuthActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/DriverAuthActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/service/DriverAuthActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/utils/Assist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/utils/Assist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/utils/ListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/utils/ListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/utils/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/java/com/sunlei/utils/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_car_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_car_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_cargo_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_cargo_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_driver_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_driver_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_scanner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/activity_scanner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/list_content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/list_content.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/tab_find.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/tab_find.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/tab_mine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/tab_mine.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/tab_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/tab_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/layout/top.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/values/spinner_idType.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/CarLogin/app/src/main/res/values/spinner_idType.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/CarLogin1.0.1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/example/qrscan/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/example/qrscan/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/example/qrscan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/example/qrscan/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/activity/CaptureActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/camera/AutoFocusCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/camera/AutoFocusCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/camera/CameraManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/camera/CameraManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/decoding/CaptureActivityHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/decoding/CaptureActivityHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/decoding/DecodeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/decoding/DecodeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/view/ViewfinderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/java/com/google/zxing/view/ViewfinderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/layout/activity_scanner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/layout/activity_scanner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/Model/QRScan/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/android-Car.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/androidTest/java/com/example/androidframework/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/java/com/example/androidframework/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/app/src/test/java/com/example/androidframework/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/AndroidFrameWork/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/libs/alipaySdk.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/androidTest/java/com/xmw/driver/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/base/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/net/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/service/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/util/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/view/READEME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/java/com/xmw/driver/wxapi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/values/dimen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/app/src/test/java/com/xmw/driver/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/nonCar/Driver/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSource/SmsValidation-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/openSourceS/HelloWorld/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/fifchess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/webResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/base/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/base/black_chess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/base/chessboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/base/success_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/base/white_chess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/icon/success_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/memo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/res/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/common/manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/common/res.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/common/screen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/main/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/main/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/utils/image_scale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/fifchess/src/utils/opUtil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/basic/python_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/basic/python_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/common/res.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/common/res.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/common/screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/common/screen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/helloworld/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/helloworld/helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/memo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pygame/helloWorld/src/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class21.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class31.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class31.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class31.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class32.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class32.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class32.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class41.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class61.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class61.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class61.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class61.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class62.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class62.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class62.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class62.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class71-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class71-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class71.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class71.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class72.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class81-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class81-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class81.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class81.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class81.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class81.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class82.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class82.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class82.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class82.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class91-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class91-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class91.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class91.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class91.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class91.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class92.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class92.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/class92.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/class92.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/data2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/class/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/class/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/work/work1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/work/work1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/work/work1/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/work/work1/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/test/python/work/work1/myRandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test/python/work/work1/myRandom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/classTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/classTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/classTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/classTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/classTest/classTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/classTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../doc/大三上/j2ee/example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/__MACOSX/司机版原型/._start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/data/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/data/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/我的页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/我的页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/扫码页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/扫码页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/提煤单页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/提煤单页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/注册页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/注册页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/登陆页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/登陆页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/货主详细信息页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/货主详细信息页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/货源信息列表页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/货源信息列表页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/货源详细信息页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/货源详细信息页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/车辆认证页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/车辆认证页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/轨迹记录_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/轨迹记录_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/驾驶员认证页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/files/驾驶员认证页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/我的页面_暂时不做_/u357.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/扫码页面/u326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/提煤单页面/u310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/注册页面/u36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/登陆页面/u1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/登陆页面/u12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/登陆页面/u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/登陆页面/u8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源信息列表页面/u72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源详细信息页面_暂时不做_/u125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源详细信息页面_暂时不做_/u131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/货源详细信息页面_暂时不做_/u99.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/车辆认证页面_暂时不做_/u225.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/轨迹记录_暂时不做_/u338.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/驾驶员认证页面_暂时不做_/u175.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/驾驶员认证页面_暂时不做_/u176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/驾驶员认证页面_暂时不做_/u177.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/驾驶员认证页面_暂时不做_/u189.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/驾驶员认证页面_暂时不做_/u190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/images/驾驶员认证页面_暂时不做_/u200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/debug.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/reset.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/reset_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/variables_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/variables_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/variables_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/variables_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/variables_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/debug/styles/images/variables_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/back_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/back_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/footnotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/footnotes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/footnotes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/footnotes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/footnotes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/footnotes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/forward_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/forward_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/notes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/notes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/notes_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/notes_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/notes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/images/notes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/page_notes/styles/page_notes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/recordplay/recordplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/recordplay/styles/recordplay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/079_page_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/086_case_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/225_responsive_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/228_togglenotes_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/229_variables_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/231_event_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/232_search_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/233_hyperlink_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/235_folderclosed_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/236_folderopen_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/adaptivecheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/flow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/flow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/folder_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/folder_closed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/folder_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/folder_open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/hotspots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/hotspots.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/hotspots_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/hotspots_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/hotspots_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/hotspots_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/minus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/page.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/plus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/share_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/share_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/share_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/share_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/sitemap_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/sitemap_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/sitemap_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/sitemap_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/sitemap_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/sitemap_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/views.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/views.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/views_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/views_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/views_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/images/views_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/plugins/sitemap/styles/sitemap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/Other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/allow_access.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/axure-chrome-extension.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/axure_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/axure_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/chrome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/extensions_menu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/safari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/safari_advanced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/safari_restrictions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/splitter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/chrome/splitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/axure_rp_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/newwindow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/note.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/jquery-ui-themes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/expand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/259_close_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/259_close_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/260_collapse_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/260_collapse_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/261_expand_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/261_expand_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/close_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/close_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/divider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/expand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/expand_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/expand_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/images/transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/reload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/jquery-ui-1.8.10.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/messagecenter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/player/axplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/player/splitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/prototypePost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/prototypePre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/startPost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/resources/scripts/startPre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/start_c_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/start_g_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/我的页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/扫码页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/提煤单页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/注册页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/登陆页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/货主详细信息页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/货源信息列表页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/货源详细信息页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/车辆认证页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/轨迹记录_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../司机版原型/司机版原型/驾驶员认证页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/__MACOSX/场地端原型/._start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/data/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/data/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/files/填写榜单/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/files/填写榜单/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/images/填写榜单/u1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/images/填写榜单/u9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/debug.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/reset.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/reset_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/variables_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/variables_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/variables_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/variables_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/variables_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/debug/styles/images/variables_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/back_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/back_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/footnotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/footnotes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/footnotes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/footnotes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/footnotes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/footnotes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/forward_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/forward_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/notes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/notes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/notes_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/notes_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/notes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/images/notes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/page_notes/styles/page_notes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/recordplay/recordplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/recordplay/styles/recordplay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/079_page_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/086_case_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/225_responsive_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/228_togglenotes_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/229_variables_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/231_event_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/232_search_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/233_hyperlink_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/235_folderclosed_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/236_folderopen_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/adaptivecheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/flow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/flow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/folder_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/folder_closed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/folder_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/folder_open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/hotspots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/hotspots.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/hotspots_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/hotspots_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/hotspots_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/hotspots_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/minus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/page.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/plus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/share_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/share_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/share_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/share_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/sitemap_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/sitemap_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/sitemap_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/sitemap_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/sitemap_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/sitemap_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/views.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/views.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/views_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/views_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/views_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/images/views_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/plugins/sitemap/styles/sitemap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/Other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/allow_access.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/axure-chrome-extension.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/axure_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/axure_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/chrome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/extensions_menu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/safari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/safari_advanced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/safari_restrictions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/splitter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/chrome/splitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/axure_rp_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/newwindow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/note.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/jquery-ui-themes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/expand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/259_close_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/259_close_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/260_collapse_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/260_collapse_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/261_expand_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/261_expand_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/close_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/close_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/divider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/expand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/expand_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/expand_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/images/transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/reload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/jquery-ui-1.8.10.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/messagecenter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/player/axplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/player/splitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/prototypePost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/prototypePre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/startPost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/resources/scripts/startPre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/start_c_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/start_g_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../场地端原型/场地端原型/填写榜单.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/CV-Parker-2018-8-8.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/Workspace.sws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/dataS.pdm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/一些数学符号的英文读法.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/代码开发规范.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/唐景崇与教育改革_熊光嵩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/唐景崧与桂剧_熊光嵩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/月岭村_灌阳_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/桂北历史文化名村保护现状分析与保护发展对策_以灌阳县月岭村为例_王晓.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/灌阳月岭村古建筑_熊光嵩.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../最近/软件.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/__MACOSX/货主版原型/._start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/data/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/data/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/发货/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/发货/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/合同状态页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/合同状态页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/合同详情页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/合同详情页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/注册页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/注册页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/添加车队页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/添加车队页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/登陆页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/登陆页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/编辑车队页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/编辑车队页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/货主详细信息页面/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/货主详细信息页面/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/车队管理页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/车队管理页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/车队详情页面_暂时不做_/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/files/车队详情页面_暂时不做_/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/发货/u105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/发货/u120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/发货/u121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/发货/u66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/注册页面/u36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/添加车队页面_暂时不做_/u216.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/登陆页面/u1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/登陆页面/u12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/登陆页面/u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/登陆页面/u8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/货主详细信息页面/u51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/货主详细信息页面/u52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/货主详细信息页面/u53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/货主详细信息页面/u54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/images/车队详情页面_暂时不做_/u179.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/debug.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/reset.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/reset_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/variables_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/variables_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/variables_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/variables_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/variables_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/debug/styles/images/variables_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/back_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/back_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/footnotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/footnotes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/footnotes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/footnotes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/footnotes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/footnotes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/forward_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/forward_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/notes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/notes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/notes_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/notes_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/notes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/images/notes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/page_notes/styles/page_notes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/recordplay/recordplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/recordplay/styles/recordplay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/079_page_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/086_case_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/225_responsive_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/228_togglenotes_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/229_variables_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/231_event_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/232_search_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/233_hyperlink_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/235_folderclosed_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/236_folderopen_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/adaptivecheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/flow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/flow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/folder_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/folder_closed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/folder_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/folder_open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/hotspots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/hotspots.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/hotspots_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/hotspots_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/hotspots_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/hotspots_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/minus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/page.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/plus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/share_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/share_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/share_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/share_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/sitemap_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/sitemap_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/sitemap_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/sitemap_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/sitemap_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/sitemap_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/views.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/views.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/views_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/views_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/views_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/images/views_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/plugins/sitemap/styles/sitemap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/Other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/allow_access.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/axure-chrome-extension.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/axure_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/axure_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/chrome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/extensions_menu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/safari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/safari_advanced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/safari_restrictions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/splitter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/chrome/splitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/axure_rp_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/newwindow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/note.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/jquery-ui-themes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/expand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/259_close_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/259_close_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/260_collapse_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/260_collapse_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/261_expand_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/261_expand_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/close_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/close_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/divider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/expand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/expand_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/expand_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/images/transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/reload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/jquery-ui-1.8.10.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/messagecenter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/player/axplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/player/splitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/prototypePost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/prototypePre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/startPost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/resources/scripts/startPre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/start_c_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/start_g_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/发货.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/合同状态页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/合同详情页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/注册页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/添加车队页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/登陆页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/编辑车队页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/货主详细信息页面.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/车队管理页面_暂时不做_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../货主版原型/货主版原型/车队详情页面_暂时不做_.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-730520945">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springMVC.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="253" />
+    <option name="y" value="147" />
+    <option name="width" value="856" />
+    <option name="height" value="563" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springMVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c287253d-7817-4fdf-ad54-e9070c9637e0" name="Default Changelist" comment="" />
+      <created>1550325666099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550325666099</updated>
+      <workItem from="1550325672946" duration="943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="943000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="253" y="147" width="856" height="563" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.35728544" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springMVC.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
